@@ -1,0 +1,36 @@
+p1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: pink;
+}
+html{
+    background-color: white;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    align-items: left;
+   
+}
+
+
+
+p2{
+    text-align: center;
+    font-size: 20px;
+    font-weight: normal;
+    color: pink;
+    height: 1000;
+    
+}
+
+.aaaa{
+    text-align: center;
+    font-size: 20px;
+    font-weight: normal;
+    color: red;
+    height: 1000;
+}
